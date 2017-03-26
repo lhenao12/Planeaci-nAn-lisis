@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>Untitled Document</title>
 <style type="text/css">
-<!--
+
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	background-color: #42413C;
@@ -136,7 +136,7 @@ header, section, footer, aside, article, figure {
 	font-weight: bolder;
 	background-color: #0CC;
 }
--->
+
 </style><!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]--></head>
